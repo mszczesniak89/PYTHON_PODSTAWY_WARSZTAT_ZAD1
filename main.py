@@ -1,6 +1,6 @@
 import random
 
-computer_choice = random.randint(1,100)
+computer_choice = random.randint(1, 100)
 user_guess = 0
 while True:
     try:
